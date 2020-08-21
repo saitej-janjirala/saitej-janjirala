@@ -3,7 +3,7 @@
 - 🔭 I’m currently working at [Inteliheads](https://www.intelikart.com/)
 - 🌱 I’m currently learning Android and Flutter
 - 👯 I’m looking to collaborate on Android projects 
-- 🤔 I’m looking for help to get SDE1 positions
+<!-- 🤔 I’m looking for help to get SDE1 positions-->
 - 💬 Ask me about Android
 - 📫 How to reach me: [Twitter - @SaitejaJanjira1](https://twitter.com/SaitejaJanjira1),[LinkedIn - @saitejajanjirala](https://www.linkedin.com/in/saiteja-janjirala-167927169/)
 <!-- 😄 Pronouns: ...
