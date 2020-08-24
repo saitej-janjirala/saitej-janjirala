@@ -1,6 +1,6 @@
 ### Hello I'm Saiteja
 
-- 🔭 I’m currently working at [Inteliheads](https://www.intelikart.com/)
+- 🔭 I’m currently working at [Vumonic Data Labs](https://www.vumonic.com/)
 - 🌱 I’m currently learning Android and Flutter
 - 👯 I’m looking to collaborate on Android projects 
 <!-- 🤔 I’m looking for help to get SDE1 positions-->
