@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Android projects 
 <!-- 🤔 I’m looking for help to get SDE1 positions-->
 - 💬 Ask me about Android
-- 📫 How to reach me: [Twitter - @SaitejaJanjira1](https://twitter.com/SaitejaJanjira1),[LinkedIn - @saitejajanjirala](https://www.linkedin.com/in/saiteja-janjirala-167927169/)
+- 📫 How to reach me: [Twitter - @SaitejaJanjira1](https://twitter.com/SaitejaJanjira1), [LinkedIn - @saitejajanjirala](https://www.linkedin.com/in/saiteja-janjirala-167927169/),  [Medium - @SaitejaJanjirala](https://medium.com/@janjiralasai420)
 <!-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
