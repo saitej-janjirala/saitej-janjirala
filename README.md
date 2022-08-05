@@ -1,7 +1,7 @@
 ### Hello I'm Saiteja
 
 - 🔭 I’m currently working at [Merkle Sokrati](https://sokrati.com/)
-- 🌱 I’m currently learning Android and Flutter
+- 🌱 I’m currently learning Android
 - 👯 I’m looking to collaborate on Android projects 
 <!-- 🤔 I’m looking for help to get SDE1 positions-->
 - 💬 Ask me about Android
