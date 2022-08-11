@@ -1,6 +1,6 @@
 ### Hello I'm Saiteja
 
-- 🔭 I’m currently working at [Merkle Sokrati](https://sokrati.com/)
+- 🔭 I'm currently pursuing my masters at California State University Northridge.
 - 🌱 I’m currently learning Android
 - 👯 I’m looking to collaborate on Android projects 
 <!-- 🤔 I’m looking for help to get SDE1 positions-->
