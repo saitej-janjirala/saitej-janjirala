@@ -1,6 +1,6 @@
 ### Hello I'm Saiteja
 
-- 🔭 I'm currently pursuing my masters at California State University Northridge.
+- 🔭 Currently Looking for Fulltime Mobile Developer Roles
 - 🌱 I’m currently learning Android
 - 👯 I’m looking to collaborate on Android projects 
 <!-- 🤔 I’m looking for help to get SDE1 positions-->
@@ -24,5 +24,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saitej-janjirala&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/saitej-janjirala">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=saitej-janjirala&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=saitej-janjirala&show_icons=true&theme=light&line_height=27" alt="Saiteja's github stats"/>
 </a>
